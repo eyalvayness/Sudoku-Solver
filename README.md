@@ -1,2 +1,5 @@
 # Sudoku-Solver
-Sudoku Solver Desktop app in C#
+
+*	C# WinForms Desktop app.
+*	Intuitive Sudoku Grid GUI.
+*	Brut-Force recursion Sudoku solver algorithm.
